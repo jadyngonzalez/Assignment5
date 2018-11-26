@@ -9,3 +9,4 @@ References:
 2) http://www.cplusplus.com/reference/sstream/stringstream/
 3) https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm
 4) https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm
+5) https://isocpp.org/wiki/faq/serialization
